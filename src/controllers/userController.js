@@ -170,7 +170,7 @@ const registerUser = async (req, res) => {
       attachments: [
         {
           filename: "V-Photoroom.png", // Name of your logo file
-          path: "C:/Users/akash/OneDrive/Desktop/AVA - Copy/public/V-Photoroom.png", // Update this path to the actual path of the logo
+          path: "https://asset.cloudinary.com/dzvjajjij/51727b5947563a2d427404aeae6385e0",
           cid: "logo", // Content ID for inline attachment
         },
       ],
